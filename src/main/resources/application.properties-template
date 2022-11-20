@@ -1,0 +1,4 @@
+spring.data.mongodb.uri=mongodb://localhost:27017
+spring.data.mongodb.database=line
+spring.data.mongodb.auto-index-creation=true
+channel-access-token=your channel access token
